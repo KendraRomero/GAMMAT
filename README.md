@@ -7,4 +7,8 @@ Este repositorio está dedicado a un proyecto para el desarrollo de un entorno v
 
 ## Hardare:
 - Gafas Meta Quest 2.
-
+- 
+## Paquetes de Unity
+-
+-
+-
