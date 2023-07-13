@@ -4,6 +4,7 @@ Este repositorio está dedicado a un proyecto para el desarrollo de un entorno v
 ## Software:
 - Unity: versión 2021.3.20f1
 - Oculus:
+- Visual Studio Community
 
 ## Hardare:
 - Gafas Meta Quest 2.
